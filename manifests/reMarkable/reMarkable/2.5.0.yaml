@@ -1,0 +1,18 @@
+---
+
+Id: reMarkable.reMarkable
+Version: 2.5.0
+Name: reMarkable
+Publisher: reMarkable
+License: reMarkable End User License Agreement
+LicenseUrl: https://support.remarkable.com/hc/en-us/articles/360000282757-reMarkable-End-User-License-Agreement
+AppMoniker: remarkable
+Tags: epub, pdf, reader, eink
+Description: The reMarkable desktop application enables you to view, LiveView, organize, import, and download files.
+Homepage: https://remarkable.com/
+Installers:
+  - Arch: x86
+    Url: https://downloads.remarkable.com/desktop/production/win/reMarkable-2.5.0-win32.exe
+    Sha256: 47A4613BFA4CF131976732CFBDE23313DF14C9E5A6C626DE05A7D5348F3EEB8F
+    InstallerType: exe
+
